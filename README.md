@@ -5,9 +5,9 @@ Labs on Network Programming
 Selected language : Python
 
 Structure of project : 
-README.md
-requirements.txt
-sample/__init__.py
-sample/core.py
-docs/conf.py
+README.md <br>
+requirements.txt <br>
+sample/__init__.py <br>
+sample/core.py <br>
+docs/conf.py <br>
 tests/test.py
